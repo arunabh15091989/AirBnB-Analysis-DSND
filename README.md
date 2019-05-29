@@ -5,3 +5,6 @@ The project involves analyzing AirBnB listings data  for Toronto to answer busin
 
 The tableau public visualization used in the blog can be visited by clicking the following link: 
 https://public.tableau.com/profile/arunabh.singh?/vizhome/aribnb-final/Dashboard2#!/vizhome/aribnb-final/Dashboard2
+
+The Blog post with insights and findings can be visited by clicking the link below:
+https://medium.com/@Aruna8h/analyzing-airbnb-prices-in-toronto-neighborhoods-cecaf7dfd6ee
